@@ -13,7 +13,7 @@ resultant images as 8-bit PNGs. This results in the
 whole of scroll 1 fitting in approximately 270 Gb of  
 storage.
 
-![Contrast improvement from clipping pixel values.](https://github.com/OliverDaubney/vesuvius_basic_compression/images/Clipping_Contrast.png)
+![Contrast improvement from clipping pixel values.](https://github.com/OliverDaubney/vesuvius_basic_compression/blob/main/images/Clipping_Contrast.png)
 
 ## How to Use This Script  
 1. Place the main.py and support.py in the folder  
