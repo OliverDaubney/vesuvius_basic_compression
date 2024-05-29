@@ -1,0 +1,24 @@
+Scroll 1
+--------
+Please note that it is much more efficient to use the already excellently masked data for scroll 1 on the server. This can be clipped very rapidly using the method - 'basic_clipped'.
+Clip Min: 18000
+Clip Max: 65535
+Flood Position: [3944, 4048]
+Min_Check: False
+Mask Frame: [0, 0, 0, 0]
+
+Scroll 0332
+-----------
+Clip Min: 18000
+Clip Max: 55000
+Flood Position: [1775, 1700]
+Min_Check: False
+Mask Frame: [100, 200, 150, 100]
+
+Scroll 1667
+-----------
+Clip Min: 18000
+Clip Max: 55000
+Flood Position: [1670, 1720]
+Min_Check: True
+Mask Frame: [0, 0, 0, 0]
